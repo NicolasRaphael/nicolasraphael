@@ -1,6 +1,13 @@
-##                     Olá, Pessoal! Meu nome é Nicolas e este é o meu repositório de Data Science
+## Olá, Pessoal!</h2>
+#### Meu nome é Nicolas e este é o meu repositório de Data Science
 
-# test
+#### Atualmente atuo na área de Governança de TI, porém, o meu objetivo é ser um Ciêntista de Dados.
+
+<hr/>
+<p align="center">
+  <b><i>Me encontre nas outras Medias Sociais!</i></b>
+
+
 <!--
 **NicolasRaphael/nicolasraphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
