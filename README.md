@@ -21,6 +21,9 @@
 
 [![Instagram](https://img.icons8.com/?size=96&id=32323&format=png)](https://www.instagram.com/nicolas__raphael/)
 [![Linkedin](https://img.icons8.com/?size=96&id=13930&format=png)](https://www.linkedin.com/in/nicolas-raphael-8ab7a6174/)
+<hr/>
+<p align="center">
+  <b><i>Linguagens Mais Utilizadas!</i></b> 
 <br>
 <br>
 <p align="center">
@@ -28,7 +31,4 @@
 <!--    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />  -->
 </p>
 
-
-<!--
-**NicolasRaphael/nicolasraphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
