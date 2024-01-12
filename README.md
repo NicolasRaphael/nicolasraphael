@@ -22,6 +22,7 @@
 [![Instagram](https://img.icons8.com/?size=96&id=32323&format=png)](https://www.instagram.com/nicolas__raphael/)
 [![Linkedin](https://img.icons8.com/?size=96&id=13930&format=png)](https://www.linkedin.com/in/nicolas-raphael-8ab7a6174/)
 <br>
+<br>
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRaphael&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
 <!--    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />  -->
