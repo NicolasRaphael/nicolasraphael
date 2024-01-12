@@ -7,7 +7,9 @@
 - 👨🏻‍💻 Atualmente atuo na área de Governança de TI.
 - 📚 Meu foco atual é migrar para a área de Dados (Ciência de Dados)
 
-## **Hard Skills:**
+## **Ferramentas e Tecnologias que Conheço:**
+
+
 
 
 
@@ -15,13 +17,14 @@
 <p align="center">
   <b><i>Me encontre nas outras Medias Sociais!</i></b>
 
+  [![Instagram](https://img.icons8.com/?size=120&id=Plswr633TJUP&format=png)](https://www.linkedin.com/in/nicolas-raphael-8ab7a6174/)
+
 [<img src="https://img.icons8.com/clouds/100/fa314a/instagram-new--v2.png"/>][Instagram]
 [<img src="https://icons8.com.br/stickers/WyB8Jtm9PZoo/linkedin.png"/>][Linkedin]
-https://icons8.com.br/icon/TSZw5VixabhS/instagram
 
 
 <!--
 **NicolasRaphael/nicolasraphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[Instagram]: https://www.instagram.com/nicolas__raphael/
+[Instagram]: 
 [Linkedin]: https://www.linkedin.com/in/nicolas-raphael-8ab7a6174/
