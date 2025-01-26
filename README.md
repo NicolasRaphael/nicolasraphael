@@ -19,19 +19,13 @@ I'm excited to share articles and posts! Stay tuned for updates on Data Science,
   <b><i>Let's Connect & Learn Together!</i></b>
 <p align="center">
   <a href="https://www.instagram.com/nicolas__raphael/" target="_blank">
-    <button style="background-color: #FF0000; color: white; border-radius: 5px; padding: 10px 20px; font-weight: bold; border: none; cursor: pointer;">
-      🎥 Instagram
-    </button>
+    <img src="https://img.shields.io/badge/🎥_Instagram-FF0000?style=for-the-badge" alt="Instagram">
   </a>
   <a href="https://medium.com/me/stories/public" target="_blank">
-    <button style="background-color: #9146FF; color: white; border-radius: 5px; padding: 10px 20px; font-weight: bold; border: none; cursor: pointer;">
-      📚 Medium
-    </button>
+    <img src="https://img.shields.io/badge/📚_Medium-9146FF?style=for-the-badge" alt="Medium">
   </a>
   <a href="https://www.linkedin.com/in/nicolas-raphael/" target="_blank">
-    <button style="background-color: #0077B5; color: white; border-radius: 5px; padding: 10px 20px; font-weight: bold; border: none; cursor: pointer;">
-      💼 LINKEDIN
-    </button>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn">
   </a>
 </p>
 <hr/>
