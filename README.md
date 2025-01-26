@@ -11,13 +11,29 @@ Whether it’s training machine learning models, analyzing complex datasets, or 
 - 👔 i'm currently working in Kantar Ibope Media and a few years ago I worked in another big brazillian company called Votorantim Cimentos.
 - I have experience with Python, SQL, Azure Data Factory, Databricks, Power BI and Excel.
 
+
+I'm excited to share articles and posts! Stay tuned for updates on Data Science, Machine Learning, and Computational Physics. Join me on this continuous learning journey. Feel free to reach out!
+
 <hr/>
 <p align="center">
   <b><i>Let's Connect & Learn Together!</i></b>
-
-[![Instagram](https://img.icons8.com/?size=96&id=32323&format=png)](https://www.instagram.com/nicolas__raphael/)
-[![Linkedin](https://img.icons8.com/?size=96&id=13930&format=png)](https://www.linkedin.com/in/nicolas-raphael-8ab7a6174/)
-<!-- [![Medium](https://img.icons8.com/?size=50&id=110611&format=png)](https://medium.com/me/stories/public) -->
+<p align="center">
+  <a href="https://www.instagram.com/nicolas__raphael/" target="_blank">
+    <button style="background-color: #FF0000; color: white; border-radius: 5px; padding: 10px 20px; font-weight: bold; border: none; cursor: pointer;">
+      🎥 Instagram
+    </button>
+  </a>
+  <a href="https://medium.com/me/stories/public" target="_blank">
+    <button style="background-color: #9146FF; color: white; border-radius: 5px; padding: 10px 20px; font-weight: bold; border: none; cursor: pointer;">
+      📚 Medium
+    </button>
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-raphael/" target="_blank">
+    <button style="background-color: #0077B5; color: white; border-radius: 5px; padding: 10px 20px; font-weight: bold; border: none; cursor: pointer;">
+      💼 LINKEDIN
+    </button>
+  </a>
+</p>
 <hr/>
 <p align="center">
   <b><i>Top Programming Languages!</i></b> 
