@@ -17,7 +17,7 @@ Whether it’s training machine learning models, analyzing complex datasets, or 
 
 [![Instagram](https://img.icons8.com/?size=96&id=32323&format=png)](https://www.instagram.com/nicolas__raphael/)
 [![Linkedin](https://img.icons8.com/?size=96&id=13930&format=png)](https://www.linkedin.com/in/nicolas-raphael-8ab7a6174/)
-[![Medium](https://img.icons8.com/?size=50&id=110611&format=png)](https://medium.com/me/stories/public)
+<!-- [![Medium](https://img.icons8.com/?size=50&id=110611&format=png)](https://medium.com/me/stories/public) -->
 <hr/>
 <p align="center">
   <b><i>Top Programming Languages!</i></b> 
