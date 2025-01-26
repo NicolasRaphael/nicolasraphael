@@ -9,7 +9,7 @@ Whether it’s training machine learning models, analyzing complex datasets, or 
 - 🎓 I have a degree in Computer Science and now i'm studiyng physics in my second degree.
 - 👨🏻‍💻 I'm a Developer since 2024, before that i worked as IT Governance and PMO    (Portfolio Project Management).
 - 👔 i'm currently working in Kantar Ibope Media and a few years ago I worked in another big brazillian company called Votorantim Cimentos.
-- I have experience with Python, SQL, Azure Data Factory, Databricks, Power BI and Excel.
+- 🛠️ I have experience with Python, SQL, Azure Data Factory, Databricks, Power BI and Excel.
 
 
 I'm excited to share articles and posts! Stay tuned for updates on Data Science, Machine Learning, and Computational Physics. Join me on this continuous learning journey. Feel free to reach out!
